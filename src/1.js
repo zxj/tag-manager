@@ -1,5 +1,5 @@
-(function(){
-	console.log(1);
+(function(){ console.log(1);
 	console.log(arguments.length+[1,2].length);
-   	//comment
+   	console.log([].concat([1,2]);
+	//comment
 })(window);
