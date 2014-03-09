@@ -1,0 +1,15 @@
+{
+	"name":"tag-manager",
+	"title":"TagManager",
+	"description":"页面辅助内容管理工具",
+	"version":"0.1.0",
+	"repository":{
+		"type":"git",
+		"url":"http://github.com/zxj/tag-manager.git"
+	},
+	"devDependencies":{
+		"grunt-contrib-jshint": "0.3.0",
+		"grunt-contrib-uglify": "0.2.0",
+		"grunt": "0.4.1"
+	}
+}
